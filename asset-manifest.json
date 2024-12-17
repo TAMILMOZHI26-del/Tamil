@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tamil/static/css/main.c115cc3a.css",
+    "main.js": "/Tamil/static/js/main.7fbdf6e9.js",
+    "static/media/image16.png": "/Tamil/static/media/image16.4c9c0126ccd746209b33.png",
+    "static/media/image17.png": "/Tamil/static/media/image17.0d70d248816c607c3fb5.png",
+    "static/media/image06.jpeg": "/Tamil/static/media/image06.9a54a6ef9071f7f01736.jpeg",
+    "static/media/image04.png": "/Tamil/static/media/image04.380f96d2f33125bfa982.png",
+    "static/media/About.jpeg": "/Tamil/static/media/About.abaf394d0cd4ac42bd1a.jpeg",
+    "static/media/image02.png": "/Tamil/static/media/image02.b48f1b5e7b5c551df305.png",
+    "static/media/instagram.png": "/Tamil/static/media/instagram.1d3c37eade5b6ff1180d.png",
+    "static/media/image2.jpeg": "/Tamil/static/media/image2.1ef434ef5fe70ec53691.jpeg",
+    "static/media/youtube.png": "/Tamil/static/media/youtube.36816c56e7a95f4df1bf.png",
+    "static/media/twitter.png": "/Tamil/static/media/twitter.ea1ed14605fa86e8a31e.png",
+    "static/media/srdslogo.png": "/Tamil/static/media/srdslogo.92d1aa03824a4a9b2f1e.png",
+    "static/media/teamimage.jpg": "/Tamil/static/media/teamimage.ac49c19831e4a6fba2eb.jpg",
+    "index.html": "/Tamil/index.html",
+    "main.c115cc3a.css.map": "/Tamil/static/css/main.c115cc3a.css.map",
+    "main.7fbdf6e9.js.map": "/Tamil/static/js/main.7fbdf6e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c115cc3a.css",
+    "static/js/main.7fbdf6e9.js"
+  ]
+}
